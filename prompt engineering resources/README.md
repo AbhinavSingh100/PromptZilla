@@ -1,4 +1,4 @@
 1. Prompt engineering basics : 
-    https://aistudio.google.com/prompts/new_chat
+    https://www.promptingguide.ai/introduction
 
 2. 
