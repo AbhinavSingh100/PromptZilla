@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <div className="flex min-h-svh max-w-lg flex-col p-2 items-center justify-start ">
+    <div className="flex min-h-svh w-lg flex-col p-2 items-center justify-start ">
       <div className='flex justify-between items-center h-30 w-30'>
         <img src={logo} className="logo h-full w-full" alt="logo" />
       </div>
